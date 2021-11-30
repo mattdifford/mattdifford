@@ -13,4 +13,4 @@ My commercial experience includes:
 - Git (obviously, considering where we are)
 - Azure Cloud Computing ☁️
 
-Any bugs or dodgy commit messages are almost certainly caused by my cats walking across my keyboard, and not by me
+Any bugs or dodgy commit messages are definitely caused by my cats walking across my keyboard, and not by me
