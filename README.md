@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**mattdifford/mattdifford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a front-end leaning full-stack developer, currently specialising in creating optimised UX journeys for new customer acquisition.
 
-Here are some ideas to get you started:
+My main passion is creating beautiful, elegant websites and UIs, but I'm also a dab hand at meeting business logic requirements, focusing on the simplest possible solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My commercial experience includes:
+- SCSS/LESS
+- Jekyll/Liquid
+- PHP (in a bespoke MVC framework)
+- MySQL
+- jQuery/Javascript
+- Git (obviously, considering where we are)
+- Azure Cloud Computing
+
+Any bugs or dodgy commit messages are almost certainly caused by my cats walking across my keyboard, and not by me
