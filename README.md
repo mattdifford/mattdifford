@@ -10,7 +10,7 @@ My commercial experience includes:
 - PHP (in a bespoke MVC framework) 🐘
 - MySQL 🐬
 - jQuery/Javascript 📝
-- Git (obviously, considering where we are)
+- Git (obviously, considering where we are) :octocat:
 - Azure Cloud Computing ☁️
 
 Any bugs or dodgy commit messages are definitely caused by my cats walking across my keyboard, and not by me
