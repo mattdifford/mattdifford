@@ -7,9 +7,10 @@ My main passion is creating beautiful, elegant websites and UIs, but I'm also a 
 My commercial experience includes:
 - SCSS/LESS ✨(I like to use BEM wherever I can)
 - Jekyll/Liquid 💎
-- PHP (in a bespoke MVC framework) 🐘
+- PHP (including in a custom MVC framework, and Laravel 8) 🐘
 - MySQL 🐬
 - jQuery/Javascript 📝
+- React ⚛️
 - Git :octocat:
 - Azure Cloud Computing ☁️
 
