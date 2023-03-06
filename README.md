@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a front-end leaning full-stack developer, currently specialising in creating optimised UX journeys for new customer acquisition.
+I'm a full-stack PHP developer, with experience in back-end and front-end specific roles.
 
-My main passion is creating beautiful, elegant websites and UIs, but I'm also a dab hand at meeting business logic requirements, focusing on the simplest possible solutions.
+I love creating beautiful, elegant websites and UIs, as well as solving complex proplems and business logic requirements, focusing on the simplest possible solutions.
 
 My commercial experience includes:
 - SCSS/LESS ✨(I like to use BEM wherever I can)
